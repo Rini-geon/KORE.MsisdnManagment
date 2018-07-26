@@ -1,0 +1,14 @@
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\bin\Debug\netcoreapp2.1\MsisdnManagementService.deps.json
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\bin\Debug\netcoreapp2.1\MsisdnManagementService.runtimeconfig.json
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\bin\Debug\netcoreapp2.1\MsisdnManagementService.runtimeconfig.dev.json
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\bin\Debug\netcoreapp2.1\MsisdnManagementService.dll
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\bin\Debug\netcoreapp2.1\MsisdnManagementService.pdb
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.csprojAssemblyReference.cache
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.csproj.CoreCompileInputs.cache
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.RazorAssemblyInfo.cache
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.RazorAssemblyInfo.cs
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.AssemblyInfoInputs.cache
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.AssemblyInfo.cs
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.RazorTargetAssemblyInfo.cache
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.dll
+D:\Rini\MsidnManagment\KORE.MsisdnManagment\MsisdnManagementService\obj\Debug\netcoreapp2.1\MsisdnManagementService.pdb
